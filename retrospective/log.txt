@@ -1,0 +1,48 @@
+commit f01755a28edbe173639411a5b2f05fe119425d68
+Merge: 8462284 e05c8a4
+Author: TAMO Morgan <tmor443@wgu.edu>
+Date:   Tue Jun 4 04:55:28 2024 +1000
+
+    Merge Conflict Resolved
+
+commit 846228497fae67b9bde4b2e884d3dd13aa705030
+Author: TAMO Morgan <tmor443@wgu.edu>
+Date:   Tue Jun 4 04:49:39 2024 +1000
+
+    Added version number to Working Branch on readme file
+
+commit e05c8a42e35709bb348623fb6885edf71ac8e78b
+Author: TAMO Morgan <tmor443@wgu.edu>
+Date:   Tue Jun 4 04:42:44 2024 +1000
+
+    Added my Student ID number to the Test Branch on the readme file
+
+commit d072e234bac76847929e9b0f843fe42de7be14bf
+Author: TAMO Morgan <tmor443@wgu.edu>
+Date:   Tue Jun 4 04:37:12 2024 +1000
+
+    Added 4 header tags with 4 different services that WGU provides: 1. Student Services, 2. Disability Services, 3. Assessment Services, and 4. Financial Services, all for services.html
+
+commit fbf3e0d9b1e655f63271425d2faeaff7a2affac8
+Author: TAMO Morgan <tmor443@wgu.edu>
+Date:   Tue Jun 4 04:33:37 2024 +1000
+
+    Added 2 header tags with my name and email in it for contact.html
+
+commit 1e176e7889743ed9f1863242bf327660128cfa77
+Author: TAMO Morgan <tmor443@wgu.edu>
+Date:   Tue Jun 4 04:29:51 2024 +1000
+
+    Added a header tag with my name in it for about.html
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit

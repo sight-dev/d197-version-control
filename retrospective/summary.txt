@@ -1,0 +1,15 @@
+SUMMARY
+
+E - HOW IT WAS RESOLVED
+
+The merge conflict in part E1 was resolved by manually editing the conflicting lines in the README.md file.
+Reason the conflict arose was because both branches had changes on the same line.
+The Working branch contained the version number, while the Test branch contained the student ID.
+Overall, the conflict was resolved by removing the conflict markers and ensuring both pieces of information were included.
+
+C - THREE CHANGES
+
+1. Added a header tag with my name, Travis Morgan in it for about.html.
+2. Added 2 header tags with my name and email, tmor443@wgu.edu in it for contact.html.
+3. Added 4 header tags with 4 different services that WGU provides: 1. Student Services, 2. Disability Services, 3. Assessment
+Services, and 4. Financial Services, all for services.html.
