@@ -2,7 +2,7 @@
 
 Version Number: 2.45.2
 
-Student ID: 010177962
+Student ID: [STUDENT_ID]
 
 
 ## Getting started
